@@ -3,7 +3,7 @@ kotest = "5.6.2"
 kotlin = "1.9.0"
 koin = "3.4.2"
 serialization = "1.5.1"
-pulverization = "0.5.2"
+pulverization = "0.7.2"
 
 [libraries]
 kotlinx-coroutine = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version = "1.7.2" }
